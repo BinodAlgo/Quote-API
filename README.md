@@ -13,7 +13,7 @@ This is a simple Express.js API for managing quotes.
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/AlgoBinod/Quote-API.git
+   git clone https://github.com/BinodAlgo/Quote-API.git
 2. Navigate into the project directory:
    cd Quote-API
 3. Install the dependencies:
