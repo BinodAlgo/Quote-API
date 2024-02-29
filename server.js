@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 4001;
 app.use(express.static('public'));
 // Middle to parse json bodies
 app.use(express.json())
-// Middle to parse form urlencoded  data
+// Middleware to parse form urlencoded  data
 app.use(express.urlencoded({extended:true}))
 
 // Mount the quoteRouter
